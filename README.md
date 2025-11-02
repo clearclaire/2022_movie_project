@@ -11,8 +11,9 @@ The goal was to simulate a simplified version of commercial recommendation engin
 ## 👥 Team Members & Roles
 ### 🧑‍💻 Dabeen (Me)
 - 📌 **Primary Role:** Data Analyst
-- 📊 Data preprocessing & feature engineering
-- 🧠 Algorithm selection & evaluation (collaborative vs. content-based)  
+- 📊 Collected and preprocessed user review data from Naver Movies
+- 🧠 Implemented collaborative filtering logic using Python (Pearson correlation)
+- 📈 Created Wordcloud visualizations from crawled text (NLP)
 - 📝 Prepared final presentation and documentation
 
 ### 👩‍🎨 Team Member 1, Team Member 2 (Frontend)
@@ -20,11 +21,11 @@ The goal was to simulate a simplified version of commercial recommendation engin
 - Frontend development
 
 ### 👨‍💻 Team Member 3 (Data Analyst)
-- Data preprocessing & feature engineering
-- Algorithm selection & evaluation (collaborative vs. content-based)  
+- Collected and preprocessed user review data from Naver Movies
+- Implemented collaborative filtering logic using Python (Pearson correlation)
 
 ### 👀 Team Member 4 (Project Management/Backend)
-- Topic selection
+- Leading project
 - Documentation & timeline planning
 - Requirement Specification
 - Backend structure & basic integration
